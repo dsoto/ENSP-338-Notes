@@ -1,6 +1,6 @@
-
 # Guiding Questions
 - How can we services from electricity with the least environmental impact?
+
 # Learning objectives
 - You will understand and apply basic principles of electricity
 - You will learn to use models to simplify complex problems and make
