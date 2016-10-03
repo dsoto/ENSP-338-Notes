@@ -119,24 +119,6 @@ For small inflation rates,
 $$ r_0 \approx r - f $$
 
 
-## CRF Spreadsheet Example
-<!-- show by hand and with PMT function -->
-<!-- compare to calculator online -->
-
-- Excel PMT
-- Excel IRR
-
-
-<!-- ## CRF Scripting Example -->
-<!--  -->
-<!-- &#45; np.pmt() -->
-<!-- &#45; np.irr() -->
-
-
-
-
-
-
 
 # Capital Recovery Function
 
@@ -165,3 +147,9 @@ comparing.  The cost is the difference in cost and the energy is the
 difference in energy between the two scenarios.
 
 The 1984 paper by Alan Meier uses the capital recovery function to convert the overall investment cost to a periodic cost with the appropriate discount rate.
+
+# Cost of Avoided Carbon
+
+Similar to this is the cost of avoided carbon.
+In this case the annual energy savings can be substituted with the annual carbon savings.
+We would compare this to the cost of carbon in the carbon markets to determine whether it is an appropriate investment.
