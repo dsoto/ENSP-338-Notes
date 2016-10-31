@@ -1,4 +1,5 @@
 * [Motivation](motivation.md)
 * [Physics Fundamentals](physics-fundamentals.md)
 * [Economics Fundamentals](economics-fundamentals.md)
+* [Finance](finance.md)
 * [Data Analysis](data-analysis.md)
