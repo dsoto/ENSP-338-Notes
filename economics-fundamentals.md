@@ -99,14 +99,9 @@ $$ FV = PV (1 + i/12)^{n} $$
 
 # Inflation
 
-## Inflation
-
 - The cost of goods usually rises over time
 - This rate is monitored by the [Consumer Price Index](http://www.bls.gov/cpi/)
 - As prices rise, the value of money decreases
-
-
-## Inflation
 
 $$ 1 + r_0 = \frac{1+r}{1+f} $$
 
